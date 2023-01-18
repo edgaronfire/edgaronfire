@@ -17,3 +17,10 @@ Mechatronics Technician on carreer transition to Data Analyst and Data Science, 
 ---
 
 ![Snake animation](https://github.com/edgartamasiro/edgartamasiro/blob/output/github-contribution-grid-snake.svg)
+
+
+<div>
+<a href="https://github.com/edgartamasiro">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgartamasiro&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edgartamasiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
