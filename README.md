@@ -1,4 +1,4 @@
-<h1 align="center">welcome!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">welcome!  &nbsp <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="530" height="320"/>
@@ -12,6 +12,8 @@ Mechatronics Technician on carreer transition to Data Analyst and Data Science, 
 
 ---
 
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgartamasiro) &nbsp; [![Instagram Badge](https://img.shields.io/badge/-Instagram-cc0079?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/edgartamasiro) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-GMail-grey?style=flat&logo=GMail&logoColor=black)](https://instagram.com/edgartamasiro)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgartamasiro) &nbsp; [![Instagram Badge](https://img.shields.io/badge/-Instagram-cc0079?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/edgartamasiro)
 
 ---
+
+![Snake animation](https://github.com/edgartamasiro/edgartamasiro/blob/output/github-contribution-grid-snake.svg)
