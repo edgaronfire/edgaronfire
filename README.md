@@ -12,6 +12,6 @@ Mechatronics Technician on carreer transition to Data Analyst and Data Science, 
 
 ---
 
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgartamasiro) &nbsp; [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/edgartamasiro)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgartamasiro) &nbsp; [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/edgartamasiro)
 
 ---
