@@ -1,7 +1,7 @@
 <h1 align="center">welcome!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="570" height="320"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="530" height="320"/>
 </div>
 
 ### :technologist: &nbsp;About me :
