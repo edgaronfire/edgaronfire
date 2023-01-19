@@ -14,8 +14,8 @@
 
 <div>
 <a href="https://github.com/edgartamasiro">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=edgartamasiro&show_icons=true&theme=vision-friendly-dark&border_color=000000&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgartamasiro&layout=compact&theme=vision-friendly-dark&border_color=000000"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=edgartamasiro&show_icons=true&theme=vision-friendly-dark&border_color=000000&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgartamasiro&layout=compact&theme=vision-friendly-dark&border_color=000000"/>
 </div>
 
 ![Snake animation](https://github.com/edgartamasiro/edgartamasiro/blob/output/github-contribution-grid-snake.svg)
