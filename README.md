@@ -17,10 +17,10 @@
 [![Customized Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=edgartamasiro&repo=dashboard_supermarket_sales&theme=chartreuse-dark&hide_border=true)](https://github.com/edgartamasiro/dashboard_supermarket_sales)
 
 <a href="https://github.com/edgartamasiro/edgartamasiro">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=edgartamasiro&theme=chartreuse-dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=edgartamasiro&border_color=000000&theme=chartreuse-dark&hide_border=true" />
 </a>
 <a href="https://github.com/edgartamasiro/dashboard_supermarket_sales">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=dashboard_supermarket_sales&theme=chartreuse-dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=dashboard_supermarket_sales&border_color=000000&theme=chartreuse-dark&hide_border=true" />
 </a>
 
 
