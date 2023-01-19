@@ -6,8 +6,8 @@
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edgartamasiro&layout=compact&theme=vision-friendly-dark&hide_border=true"/></a>
 </div>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=edgartamasiro&card_width=300px&show_icons=true&hide_border=true&theme=vision-friendly-dark#gh-dark-mode-only)]([https://github.com/edgartamasiro/edgartamasiro#gh-dark-mode-only](https://github.com/edgartamasiro?tab=repositories))
-[![Anurag's GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api?username=edgartamasiro&card_width=300px&show_icons=true&hide_border=true&theme=transparent#gh-light-mode-only)]([https://github.com/anuraghazra/edgartamasiro#gh-light-mode-only](https://github.com/edgartamasiro?tab=repositories))
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=edgartamasiro&card_width=300px&show_icons=true&hide_border=true&theme=vision-friendly-dark#gh-dark-mode-only)]([https://github.com/edgartamasiro/edgartamasiro#gh-dark-mode-only](https://github.com/edgartamasiro/edgartamasiro#gh-dark-mode-only))
+[![Anurag's GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api?username=edgartamasiro&card_width=300px&show_icons=true&hide_border=true&theme=transparent#gh-light-mode-only)]([https://github.com/anuraghazra/edgartamasiro#gh-light-mode-only](https://github.com/anuraghazra/edgartamasiro#gh-light-mode-only))
 [![Anurag's GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edgartamasiro&layout=compact&card_width=290px&hide_border=true&theme=vision-friendly-dark#gh-dark-mode-only)](https://github.com/edgartamasiro/edgartamasiro#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edgartamasiro&layout=compact&card_width=290px&hide_border=true&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/edgartamasiro#gh-light-mode-only)
 
