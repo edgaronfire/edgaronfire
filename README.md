@@ -14,7 +14,7 @@
 
 ### <samp>&gt; pinned: </samp>
 [![Customized Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=edgartamasiro&repo=edgartamasiro&theme=chartreuse-dark&border_color=000000)](https://github.com/edgartamasiro/edgartamasiro)
-[![Customized Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=edgartamasiro&repo=dashboard_supermarket_sales&theme=chartreuse-dark&hide_border=true)](https://github.com/edgartamasiro/edgartamasiro)
+[![Customized Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=edgartamasiro&repo=dashboard_supermarket_sales&theme=chartreuse-dark&hide_border=true)](https://github.com/edgartamasiro/dashboard_supermarket_sales)
 
 ### <samp>&gt; stacks: </samp>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="50" height="50"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="54" height="54"/>
