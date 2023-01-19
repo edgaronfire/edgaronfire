@@ -1,8 +1,8 @@
 <!--- comments in html --->
 <!--- https://github.com/anuraghazra/github-readme-stats --->
 
-<div>
-<a href="https://media.giphy.com/media/krewXUB6LBja/giphy.gif">teste de gif animado</a>
+<div align="left">
+<a href="https://media.giphy.com/media/krewXUB6LBja/giphy.gif">teste de gif animado<img="https://media.giphy.com/media/krewXUB6LBja/giphy.gif"></a>
 </div>
 
 <div>
