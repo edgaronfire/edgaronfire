@@ -6,11 +6,12 @@
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edgartamasiro&layout=compact&theme=vision-friendly-dark&hide_border=true"/></a>
 </div>
 
+<div>
 <a href="https://github.com/edgartamasiro/edgartamasiro">
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=edgartamasiro&theme=chartreuse-dark&hide_border=true" /></a>
 <a href="https://github.com/edgartamasiro/dashboard_supermarket_sales">
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=dashboard_supermarket_sales&theme=chartreuse-dark&hide_border=true"/></a>
-
+</div>
 
 ![Snake animation](https://github.com/edgartamasiro/edgartamasiro/blob/output/github-contribution-grid-snake.svg)
 
