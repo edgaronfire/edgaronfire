@@ -1,3 +1,5 @@
+<!--- comments in html --->
+<!--- https://github.com/anuraghazra/github-readme-stats --->
 <div>
 <a href="https://github.com/edgartamasiro?tab=repositories">
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=edgartamasiro&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
