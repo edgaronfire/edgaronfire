@@ -14,6 +14,7 @@
 
 ### <samp>&gt; pins: </samp>
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=edgartamasiro&theme=vision-friendly-dark&border_color=000000&hide_border=true)](https://github.com/edgartamasiro/edgartamasiro)
+![Customized Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=edgartamasiro&repo=edgartamasiro&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=000000)
 
 ### <samp>&gt; stacks: </samp>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="50" height="50"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="54" height="54"/>
