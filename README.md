@@ -8,9 +8,9 @@
 
 <div>
 <a href="https://github.com/edgartamasiro/edgartamasiro">
-<img height="110" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=edgartamasiro&theme=chartreuse-dark&hide_border=true"/></a>
+<img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=edgartamasiro&theme=chartreuse-dark&hide_border=true"/></a>
 <a href="https://github.com/edgartamasiro/dashboard_supermarket_sales">  
-<img height="110" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=dashboard_supermarket_sales&theme=chartreuse-dark&hide_border=true"/></a>
+<img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=dashboard_supermarket_sales&theme=chartreuse-dark&hide_border=true"/></a>
 </div>
 
 
