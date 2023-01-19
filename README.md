@@ -7,13 +7,13 @@
 <p></p>
 
 <div>
-<a href="https://www.linkedin.com/in/edgartamasiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230e76a8?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/edgartamasiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23cc0079?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/edgartamasiro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230e76a8?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/edgartamasiro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23cc0079?style=flat&logo=instagram&logoColor=white"></a>
 </div>
 <p></p>
 
 <div>
-<a href="https://github.com/edgartamasiro">
+<a href="">
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=edgartamasiro&show_icons=true&theme=vision-friendly-dark&border_color=000000&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edgartamasiro&layout=compact&theme=vision-friendly-dark&border_color=000000&hide_border=true"/>
 </div>
