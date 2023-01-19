@@ -6,8 +6,8 @@
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edgartamasiro&layout=compact&theme=vision-friendly-dark&hide_border=true"/></a>
 </div>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=edgartamasiro&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/edgartamasiro/edgartamasiro#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api?username=edgartamasiro&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/edgartamasiro#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=edgartamasiro&show_icons=true&theme=vision-friendly-dark#gh-dark-mode-only)](https://github.com/edgartamasiro/edgartamasiro#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api?username=edgartamasiro&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/edgartamasiro#gh-light-mode-only)
 
 ![Snake animation](https://github.com/edgartamasiro/edgartamasiro/blob/output/github-contribution-grid-snake.svg)
 
