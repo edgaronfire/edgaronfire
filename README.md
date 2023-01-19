@@ -21,4 +21,6 @@
 ![Snake animation](https://github.com/edgartamasiro/edgartamasiro/blob/output/github-contribution-grid-snake.svg)
 <p></p>
   
-<!--<p align="center"><img src="https://komarev.com/ghpvc/?username=edgartamasiro&style=flat&label=Profile+Views&color=2bd017" alt=""></p>-->
+<!--
+<p align="center"><img src="https://komarev.com/ghpvc/?username=edgartamasiro&style=flat&label=Profile+Views&color=2bd017" alt=""></p>
+-->
