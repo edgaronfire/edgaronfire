@@ -13,7 +13,7 @@
 <p></p>
 
 ### <samp>&gt; pins: </samp>
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=edgartamasiro)](https://github.com/edgartamasiro/edgartamasiro)
 
 ### <samp>&gt; stacks: </samp>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="50" height="50"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="54" height="54"/>
