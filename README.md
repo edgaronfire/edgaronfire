@@ -2,7 +2,7 @@
 <!--- https://github.com/anuraghazra/github-readme-stats --->
 
 <div align="left">
-<a href="https://media.giphy.com/media/krewXUB6LBja/giphy.gif">teste de gif animado<img src="https://media.giphy.com/media/krewXUB6LBja/giphy.gif"/></a>
+<a href="https://media.giphy.com/media/krewXUB6LBja/giphy.gif">teste de gif animado<img height="200" src="https://media.giphy.com/media/krewXUB6LBja/giphy.gif"/></a>
 </div>
 
 <div>
