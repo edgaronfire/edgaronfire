@@ -13,9 +13,8 @@
 <p></p>
 
 ### <samp>&gt; pinned: </samp>
-[![Customized Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=edgartamasiro&repo=edgartamasiro&theme=chartreuse-dark&border_color=000000)](https://github.com/edgartamasiro/edgartamasiro)
-[![Customized Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=edgartamasiro&repo=dashboard_supermarket_sales&theme=chartreuse-dark&hide_border=true)](https://github.com/edgartamasiro/dashboard_supermarket_sales)
-
+<!---[![Customized Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=edgartamasiro&repo=edgartamasiro&theme=chartreuse-dark&border_color=000000)](https://github.com/edgartamasiro/edgartamasiro)
+[![Customized Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=edgartamasiro&repo=dashboard_supermarket_sales&theme=chartreuse-dark&hide_border=true)](https://github.com/edgartamasiro/dashboard_supermarket_sales)--->
 <a href="https://github.com/edgartamasiro/edgartamasiro">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=edgartamasiro&border_color=000000&theme=chartreuse-dark&hide_border=true" />
 </a>
