@@ -22,7 +22,7 @@
 <p></p>
 
 ### <samp>&gt; tools: </samp>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="50" height="50"/>
           
 
 <!--- <p align="center"><img src="https://komarev.com/ghpvc/?username=edgartamasiro&style=flat&label=Profile+Views&color=2bd017" alt=""></p> --->
