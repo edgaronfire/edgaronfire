@@ -13,7 +13,7 @@
 <p></p>
 
 <div>
-<a href="https://github.com/edgartamasiro?tab=repositories">
+<a href="https://github.com/edgartamasiro">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=edgartamasiro&show_icons=true&theme=vision-friendly-dark&border_color=000000&include_all_commits=true&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgartamasiro&layout=compact&theme=vision-friendly-dark&border_color=000000"/>
 </div>
