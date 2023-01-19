@@ -4,6 +4,12 @@
 </div>
 
 ![Snake animation](https://github.com/edgartamasiro/edgartamasiro/blob/output/github-contribution-grid-snake.svg)
+
+<div>
+<a href="https://www.linkedin.com/in/edgartamasiro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230e76a8?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/edgartamasiro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23cc0079?style=flat&logo=instagram&logoColor=white"></a>
+</div>
+
 <p></p>
 
 <div align="center">
@@ -14,10 +20,6 @@
 # <samp>&gt; hi there! welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </samp>
 <p></p>
 
-<div>
-<a href="https://www.linkedin.com/in/edgartamasiro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230e76a8?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/edgartamasiro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23cc0079?style=flat&logo=instagram&logoColor=white"></a>
-</div>
 <p></p>
 
 
