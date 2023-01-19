@@ -1,28 +1,10 @@
 <!--- comments in html --->
 <!--- https://github.com/anuraghazra/github-readme-stats --->
+
 <div>
 <a href="https://github.com/edgartamasiro?tab=repositories">
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=edgartamasiro&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edgartamasiro&layout=compact&theme=vision-friendly-dark&hide_border=true"/></a>
-</div>
-
-<div>
-<a href="https://github.com/edgartamasiro/edgartamasiro">
-<img height="130" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=edgartamasiro&theme=chartreuse-dark&border_color=00000000"/></a>
-<a href="https://github.com/edgartamasiro/dashboard_supermarket_sales">  
-<img height="130" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=dashboard_supermarket_sales&theme=chartreuse-dark&border_color=00000000"/></a>
-</div>
-
-
-
-
-
-
-<div>
-<a href="https://github.com/edgartamasiro/edgartamasiro">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=edgartamasiro&theme=chartreuse-dark&hide_border=true" /></a>
-<a href="https://github.com/edgartamasiro/dashboard_supermarket_sales">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=edgartamasiro&repo=dashboard_supermarket_sales&theme=chartreuse-dark&hide_border=true"/></a>
 </div>
 
 ![Snake animation](https://github.com/edgartamasiro/edgartamasiro/blob/output/github-contribution-grid-snake.svg)
@@ -31,7 +13,6 @@
 <a href="https://www.linkedin.com/in/edgartamasiro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230e76a8?style=flat&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/edgartamasiro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23cc0079?style=flat&logo=instagram&logoColor=white"></a>
 </div>
-<p></p>
 
 ### <samp>&gt; pinned: </samp>
 <!---[![Customized Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=edgartamasiro&repo=edgartamasiro&theme=chartreuse-dark&border_color=000000)](https://github.com/edgartamasiro/edgartamasiro)
