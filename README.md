@@ -6,11 +6,6 @@
 <a href="https://media.giphy.com/media/krewXUB6LBja/giphy.gif">teste de gif animado<img height="400" width="900" src="https://media.giphy.com/media/krewXUB6LBja/giphy.gif"/></a>
 </div>--->
 
-<!--- HEADER --->
-<p align="center">
-  <img src="https://github.com/edgartamasiro/edgartamasiro/raw/main/assets/profile_readme_header.gif" width="900" height="360" alt="Oi, eu sou o edgartamasiro">
-</p>
-
 <!--- ESTATÍSTICAS --->
 <div>
 <a href="https://github.com/edgartamasiro?tab=repositories">
