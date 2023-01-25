@@ -3,7 +3,7 @@
 <!--- updated on Jan 20, 2023 --->
 
 <!---<div align="left">
-<a href="https://media.giphy.com/media/krewXUB6LBja/giphy.gif">teste de gif animado<img height="800" width="300" src="https://media.giphy.com/media/krewXUB6LBja/giphy.gif"/></a>
+<a href="https://media.giphy.com/media/krewXUB6LBja/giphy.gif">teste de gif animado<img height="400" width="900" src="https://media.giphy.com/media/krewXUB6LBja/giphy.gif"/></a>
 </div>--->
 
 <!--- HEADER --->
