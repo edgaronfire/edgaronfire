@@ -3,12 +3,12 @@
 <!--- updated on Jan 20, 2023 --->
 
 <!---<div align="left">
-<a href="https://media.giphy.com/media/krewXUB6LBja/giphy.gif">teste de gif animado<img height="200" width="300" src="https://media.giphy.com/media/krewXUB6LBja/giphy.gif"/></a>
+<a href="https://media.giphy.com/media/krewXUB6LBja/giphy.gif">teste de gif animado<img height="800" width="300" src="https://media.giphy.com/media/krewXUB6LBja/giphy.gif"/></a>
 </div>--->
 
 <!--- HEADER --->
 <p align="center">
-  <img src="https://github.com/edgartamasiro/edgartamasiro/raw/main/assets/profile_readme_header.gif" alt="Oi, eu sou o edgartamasiro">
+  <img src="https://github.com/edgartamasiro/edgartamasiro/raw/main/assets/profile_readme_header.gif" width="530" height="340" alt="Oi, eu sou o edgartamasiro">
 </p>
 
 <!--- ESTATÍSTICAS --->
