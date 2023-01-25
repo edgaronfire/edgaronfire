@@ -8,7 +8,7 @@
 
 <!--- HEADER --->
 <p align="center">
-  <img src="https://github.com/edgartamasiro/edgartamasiro/raw/main/assets/profile_readme_header.gif" width="530" height="340" alt="Oi, eu sou o edgartamasiro">
+  <img src="https://github.com/edgartamasiro/edgartamasiro/raw/main/assets/profile_readme_header.gif" width="800" height="400" alt="Oi, eu sou o edgartamasiro">
 </p>
 
 <!--- ESTATÍSTICAS --->
